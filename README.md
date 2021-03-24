@@ -15,6 +15,6 @@
 ## 프로젝트 baskin  
 저의 `프로젝트`를 소개합니다.  
 <div style="text-align:center;">
-    <img src="./images/시안디자인-김유진.png" width="200">
+    <img src="../images/시안디자인-김유진.png" width="200">
 </div>
 
