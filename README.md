@@ -17,4 +17,3 @@
 <div style="text-align:center;">
     <img src="../images/시안디자인-김유진.png" width="200">
 </div>
-
