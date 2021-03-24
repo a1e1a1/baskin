@@ -1,0 +1,23 @@
+@charset 'utf-8';
+
+
+/* ------------------매인 배너--------------------- */
+.main_banner>.container{width:1920px;padding-top:0;}
+.container>img{width:1200px;margin:0 auto;margin-top:23px;}
+
+/* ----------------매인 컨텐츠----------------- */    
+.main_content .container>div{float:left;margin-right:350px;padding:20px 10px;}
+.main_content .container>div:last-child{margin-right:0;}
+.br_store,.happy_order{text-align:center;width:226px;height:251px;cursor:pointer;}
+.br_store h2,.happy_order h2{color:#000;font-size:20px;margin-bottom:30px;}
+.br_store h3,.happy_order h3{color:#a8a8a8;font-size:15px;font-weight:600;text-align:center;}
+.happy_order>p{color:#f19ec2;font-size:15px;font-weight:600;text-align:center;}
+
+/* -----------------메인 컨텐츠02---------------- */
+.main_content02{text-align:center;font-weight:900;margin-bottom:12px;}
+.main_content02 h2{color:#ffd0d0;font-size:19px;margin-bottom:30px;}
+.box>li{float:left;width:256px;margin-right:12px;}
+.main_content02 .img_box{float:left;margin-bottom:10px;}
+.main_content02 .img_box img{margin:10px 470px;}
+
+hr{width:1200px;height:2px;margin:0 auto; background-color:#fb58f3;}

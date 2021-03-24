@@ -1,0 +1,10 @@
+@charset 'utf-8';
+
+/* ----------------------푸터-------------------- */
+
+.footer_nav li{display:inline-block;margin-right:14px;font-size:14px;}
+.footer p{font-size:medium;padding-left:480px;padding-top:50px;font-weight:700;color:#8e9991;line-height:47px;}
+address{float:left;}
+.container>.sns{float:right}
+.sns>li{display:inline-block;padding-top:40px;margin-right:14px;cursor:pointer;}
+.container>.logo{float:right;}

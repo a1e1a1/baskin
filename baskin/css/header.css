@@ -1,0 +1,13 @@
+@charset 'utf-8';
+
+/* ----------헤더스타일------------ */
+.header .container{padding-bottom:0;}
+.header_top{margin-bottom:12px;}
+
+h1{width:900px;}
+h1 img{margin:0 auto;}
+
+.main_nav>li{float:left;padding:10px 32.8593px 0;transition:0.3s;}
+.main_nav>li>a{text-align:center;}
+.main_nav>li>a{margin-bottom:-4px;font-size:20px;font-weight:600;color:#f3adcb;transition:0.3s;}
+.main_nav>li:hover{background-color:#01027b;}
